@@ -1,0 +1,59 @@
+# Senior–Staff Backend Engineer Opening (SF)
+
+_Last updated: Jan 2026_
+
+## The company
+This is an AI-native company building real-time, production voice agents that interact directly with end users at high volume.
+
+The platform handles live conversations, complex decisioning, and integrations with external systems, all under tight latency and reliability constraints.
+
+- Early-stage with strong revenue traction (closing in on $6M ARR in just 2 years)
+- Product is live in production, handling large volumes of real-time interactions
+- Technology sits at the intersection of AI, voice infrastructure, and backend systems
+- Engineering problems are closer to distributed systems than traditional SaaS CRUD apps
+
+## Why this role exists
+The company has found PMF is scaling real customer usage in production.
+
+As call volume and use cases expand, backend systems need to become more robust, observable, and scalable. This role exists to help own and evolve 
+the core backend that powers live, user-facing AI interactions.
+
+## The actual work
+- Own backend systems that support real-time, latency-sensitive workflows
+- Design and scale APIs and services used by AI voice agents in production
+- Improve system reliability, performance, and fault tolerance
+- Work closely with applied AI and product teams to ship new capabilities
+- Make architectural decisions with real customer impact
+- Balance rapid iteration with production-grade engineering
+
+## The stack (current, not aspirational)
+- Primary language: Python, FastAPI, Postgres, Kubernetes, AWS, Langfuse, OpenAI
+
+## Team and collaboration 
+- Reports to CTO, former Cambridge 30 under 30 and Ex-Google
+- Elite but laid back team
+- Small, senior-leaning team with high ownership
+- Fast feedback loops and minimal process overhead
+
+## Who is a strong fit
+- Senior or Staff-level backend engineer
+- Comfortable owning systems that operate in real time
+- Experience with scalable, distributed, or event-driven systems
+- Enjoys working close to product and end users
+
+## Who is not a fit
+- Engineers looking for purely offline or batch systems
+- People who prefer very narrow ownership
+- Early-career engineers
+
+## Interview process
+- Step 1: 30 minute call with the CTO
+- Step 2: 1.5 Technical (System Design and Practical Coding)
+- Step 3: Onsite
+- Expected timeline: ~2 weeks
+
+## Reach out
+Happy to share:
+- Company name, funding, and investors
+- Main projects on the roadmap
+- Core target market and growth trajectory
